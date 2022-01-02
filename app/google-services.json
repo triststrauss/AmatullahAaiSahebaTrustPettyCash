@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509441741691",
+    "firebase_url": "https://petty-cash-27d52-default-rtdb.firebaseio.com",
+    "project_id": "petty-cash-27d52",
+    "storage_bucket": "petty-cash-27d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509441741691:android:215f868308e8182a16a3de",
+        "android_client_info": {
+          "package_name": "com.iq.pettycash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509441741691-3tsb00dkf2rbbmroqghk798bivc2ore9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iq.pettycash",
+            "certificate_hash": "da598328dd30f47b2bdbf055b818899abe580377"
+          }
+        },
+        {
+          "client_id": "509441741691-qeo9gphtac4ld73g5fuc4cei48gcc9ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_i5wDS8Js9vt1sXgO6-hRrDeGqeheaSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509441741691-qeo9gphtac4ld73g5fuc4cei48gcc9ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

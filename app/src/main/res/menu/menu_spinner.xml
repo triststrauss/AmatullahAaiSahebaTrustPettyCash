@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/selectMonthSpinner"
+        android:title="ActionBar Spinner"
+        app:actionViewClass="android.widget.Spinner"
+        android:background="#ff00"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/addBackDateEntry"
+        android:title="Add BackDate Entry"
+        app:actionViewClass="android.widget.Button"
+        android:background="#ff00"
+        />
+
+    <item
+        android:id="@+id/menu_summary"
+        android:title="Summary"
+        app:actionViewClass="android.widget.Button"
+        android:background="#ff00"
+        />
+
+    <item
+        android:id="@+id/generate_report"
+        android:title="Generate Report"
+        app:actionViewClass="android.widget.Button"
+        android:background="#ff00"
+        />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        app:actionViewClass="android.widget.Button"
+        android:background="#ff00"
+        />
+
+</menu>
